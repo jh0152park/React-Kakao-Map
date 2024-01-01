@@ -53,6 +53,8 @@ api doc: https://apis.map.kakao.com/web/guide/
 
 1. `npm install kakao.maps.d.ts --save-dev`
 2. tsconfig.json의 `compilerOptions.typescript`에 kakao.maps.d.ts 추가
+   ![스크린샷 2024-01-01 오후 5 19 45](https://github.com/jh0152park/React-Kakao-Map/assets/118165975/6e2f80be-b68e-429b-9b59-26399bf5ca1a)
+
 3. `npm install react-kakao-maps-sdk`
 4. 지도 그리기
 
